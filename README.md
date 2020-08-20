@@ -5,7 +5,7 @@
 ## Run locally (tested for Python 3.7.5)
 1. Clone the repo
 ```
-$ git clone
+$ git clone git@github.com:ibmctobr/Entities-NLU-API.git
 $ cd Entities-NLU-API
 ```
 
