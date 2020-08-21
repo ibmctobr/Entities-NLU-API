@@ -1,4 +1,4 @@
-# Highlight words in a text based on Watson NLU entities
+# Voice Anamnesis API
 Using IBM Watson Language Translator and Watson Natural Language Understanding (NLU), highlight words from any text based on the specified entity types.
 
 ## Technologies
@@ -12,8 +12,8 @@ Using IBM Watson Language Translator and Watson Natural Language Understanding (
 ## Run locally (tested for Python 3.7.5)
 1. Clone the repo
 ```
-$ git clone https://github.com/ibmctobr/entities-nlu-api.git
-$ cd entities-nlu-api
+$ git clone https://github.com/ibmctobr/voice-anamnesis-api.git
+$ cd voice-anamnesis-api
 ```
 
 2. Install the packages
